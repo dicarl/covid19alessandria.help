@@ -1,5 +1,5 @@
 ---
-title: "Salumeria Cusimano salvatore"
+title: "Salumeria Cusimano Salvatore"
 link: "https://www.confesercenti-al.it/news/234-consegne-a-domicilio-alessandria-lista-aggiornata-al-26-marzo.html"
 phone: "0131.251.105"
 mail: ""
